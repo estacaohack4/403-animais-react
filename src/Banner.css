@@ -1,0 +1,11 @@
+.banner{
+    background-image: url(./banner.jpg);
+    background-size: cover;
+    overflow: auto;
+    padding: 50px;
+    color: white;
+}
+
+.banner div{
+    margin: 150px 0;
+}
